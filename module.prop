@@ -1,7 +1,6 @@
-id=CamcorderNSFix
+id=CamcorderSDFix
 name=OP3 Camcorder Sound Distortion Fix
 version=v1
 versionCode=1
 author=Bla
 description=Fixes the sound distortion when recording in loud environments on the OP3
-minMagisk=17000
